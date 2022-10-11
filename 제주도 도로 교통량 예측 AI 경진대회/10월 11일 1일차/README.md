@@ -97,8 +97,13 @@ rc={"axes.unicode_minus":False}, style='white')
 3. 다른 EDA과정 분석해보기(이거 꼭해라)
 
 [rference1](https://dacon.io/competitions/official/235959/codeshare/6507?page=1&dtype=recent)
+
 [reference2 여기에 age칼럼을 분리하는 부분이 나온다](https://dacon.io/competitions/official/235959/codeshare/6477?page=1&dtype=recent)
+
 [reference3](https://dacon.io/competitions/official/235949/codeshare/6629?page=1&dtype=recent)
+
 [reference4](https://dacon.io/competitions/official/235867/codeshare/4028?page=1&dtype=recent)
+
 [reference5](https://dacon.io/codeshare/5768?dtype=recent)
+
 [상관분석이란](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sub_om&logNo=220755048371)
