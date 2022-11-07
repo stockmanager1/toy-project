@@ -1,3 +1,6 @@
+# 진행 코드
+https://colab.research.google.com/drive/1alYXPQ5bOQ5KRtIp5bP4ToHWuyanDSdn
+
 # 목표
 1. 나만의 EDA분석툴을 만들어 본다. 이전에 대회 코드 분석([여행상품경진대회](https://github.com/stockmanager1/AI-TIL/tree/main/dacon/%EC%97%AC%ED%96%89%EC%83%81%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C))을 통해서 몇가지 인사이트를 얻은 것이 있지만 좀 더 구체화시켜 바로바로 분석할 수 있는 나만의 툴을 만든다.
 
