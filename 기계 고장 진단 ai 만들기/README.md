@@ -11,4 +11,4 @@ https://colab.research.google.com/drive/1sDW-7L5BjQd-Rn7HHnyQpz9tG5Cd9yGV
 # 일정
 |일정|구체사항|
 |------|---|
-|2022-12-26|[음성인식 개념 공부]()|
+|2022-12-26|[음성인식 개념 공부](https://github.com/stockmanager1/toy-project/tree/main/%EA%B8%B0%EA%B3%84%20%EA%B3%A0%EC%9E%A5%20%EC%A7%84%EB%8B%A8%20ai%20%EB%A7%8C%EB%93%A4%EA%B8%B0/2022-12-06%201%EC%9D%BC%EC%B0%A8)|
