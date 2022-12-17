@@ -3,12 +3,8 @@
 https://colab.research.google.com/drive/1EPNkYmJhdpAHPxPvyXxu-HsaxNiBKpbD#scrollTo=YXKUWVo5zTKh
 
 # 목표
-1. 음성 인식을 머신러닝에 어떻게 사용되는지 파악한다.
-2. 시험기간이다보니, 최소한 하루에 1시간씩이라도 대회에 투자해서 꾸준히 해보자. 앞으로 41일간 매일 깃허브에 진행사항을 올리는 것이 목표다.
-3. 음성 인식에 대한 개념을 어느정도 잡는다.
-4. 비지도 학습 중 이상치 탐지 알고리즘에 대해 심층적으로 공부한다.
-5. 꿈이긴 하지만, 상위 5%안에 들면 좋겠다.
-
+1. 위도와 경도를 가지고 위치를 지도로 구현해보자. [레퍼런스](https://dacon.io/competitions/official/235985/codeshare/7066?page=1&dtype=recent)
+2. 앙상블 모델 구현하기
 # 일정
 |일정|구체사항|
 |------|---|
